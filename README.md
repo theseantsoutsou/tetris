@@ -1,4 +1,6 @@
-# Assignment 1
+# Tetris
+
+Implementation of the classic Tetris game with a focus on functional reactive programming.
 
 ## Usage
 
@@ -19,8 +21,8 @@ Serve up the App (and ctrl-click the URL that appears in the console)
 
 ## Commands
 
-Use `A`, `S`, ` D` keys to move the block left down right respectively.
+Use the `A`, `S`, and `D` keys to move the block left down right respectively.
 
-Use `W` key to rotate the block.
+Use the `W` key to rotate the block.
 
 Use `Space` to instantly drop the block.
